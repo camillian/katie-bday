@@ -1,0 +1,32 @@
+body {
+  font-family: Shadows Into Light;
+  color: #035956;
+}
+
+h1 {
+  font-size: 200%;
+}
+
+.gcal h1 {
+  text-align: center;
+}
+.gcal h3 {
+  text-align: center;
+}
+
+.bday h1 {
+  font-size: 300%;
+}
+
+.bday p {
+  font-size: large;
+}
+
+p {
+  font-size: 100%;
+  font-weight: 4;
+}
+
+.signature {
+  text-align: right;
+}
